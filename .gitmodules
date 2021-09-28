@@ -1,0 +1,3 @@
+[submodule "biatec"]
+	path = biatec
+	url = git@github.com:llhotka/biatec.git
